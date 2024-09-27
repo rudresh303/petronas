@@ -187,23 +187,23 @@ h1 p,h2 p,h3 p,h4 p,h5 p,h6 p {
 .JindexNaviRightTopSub .languageIcon {
     width: 21px;
     height: 20px;
-    background-image: url(/Aditee/images/top-language.svg);
+    background-image: url(./images/top-language.svg);
 }
 
 .JindexNaviRightTopSub .languageIcon.lang-ms {
-    background-image: url(/Aditee/images/top-language-ms.svg);
+    background-image: url(./images/top-language-ms.svg);
 }
 
 .JindexNaviRightTopSub a.searchIcon {
     width: 21px;
     height: 21px;
-    background-image: url(/Aditee/images/top-search.svg);
+    background-image: url(./images/top-search.svg);
 }
 
 .JindexNaviRightTopSub .languageIcon2 {
     width: 21px;
     height: 20px;
-    background-image: url(/Aditee/images/top-language2.svg);
+    background-image: url(./images/top-language2.svg);
 }
 
 .JindexNaviRightTopSub a.burgerMenuIconM {
@@ -431,7 +431,7 @@ h1 p,h2 p,h3 p,h4 p,h5 p,h6 p {
     width: 25px;
     height: 25px;
     display: block;
-    background-image: url(/Aditee/images/icon-sprite.png);
+    background-image: url(./images/icon-sprite.png);
     background-repeat: no-repeat;
     background-size: 500px auto;
 }
@@ -473,7 +473,7 @@ h1 p,h2 p,h3 p,h4 p,h5 p,h6 p {
     display: block;
     width: 32px;
     height: 32px;
-    background: url(/Aditee/images/side-chat.svg);
+    background: url(./images/side-chat.svg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -555,7 +555,7 @@ body {
 .JsocialLinkInner a {
     min-width: 25px !important;
     min-height: 25px !important;
-    background-image: url(Aditee/images/icon-sprite.png) !important;
+    background-image: url(./images/icon-sprite.png) !important;
     background-repeat: no-repeat !important;
     background-size: 500px auto;
     display: block !important;
@@ -1811,7 +1811,7 @@ body {
 .JindexContainer02Btn i {
     width: 32px;
     height: 32px;
-    background: url(/Aditee/images/read-more.svg) center no-repeat;
+    background: url(./images/read-more.svg) center no-repeat;
 }
 
 .JindexContainer02Btn p {
@@ -2249,7 +2249,7 @@ body {
 .JindexRow3LeftTitle i {
     width: 32px;
     height: 32px;
-    background: url(/Aditee/images/read-more.svg) center no-repeat;
+    background: url(./images/read-more.svg) center no-repeat;
 }
 
 .JindexRow3LeftTitle a p {
@@ -2541,7 +2541,7 @@ body {
 .JindexRow4ContentList i {
     width: 32px;
     height: 32px;
-    background: url(/Aditee/images/read-more.svg) center no-repeat;
+    background: url(./images/read-more.svg) center no-repeat;
 }
 
 .JindexRow4ContentList p {
@@ -2751,7 +2751,7 @@ body {
 .JindexRow5SlideRightInner a i {
     width: 32px;
     height: 32px;
-    background: url(/Aditee/images/read-more-c.svg) center no-repeat;
+    background: url(./images/read-more-c.svg) center no-repeat;
 }
 
 .JindexRow5SlideRightInner a p {
@@ -2938,7 +2938,7 @@ body {
 .JindexRow6Content i {
     width: 32px;
     height: 32px;
-    background: url(/Aditee/images/read-more.svg) center no-repeat;
+    background: url(./images/read-more.svg) center no-repeat;
 }
 
 .JindexRow6Content a p {
